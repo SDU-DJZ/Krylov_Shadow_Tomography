@@ -1,0 +1,62 @@
+{
+  "data1": {
+    "system_size": 2,
+    "average_errors": [
+      0.09923241765192847
+    ],
+    "M, B1, B2, and L are": [
+      28800,
+      32,
+      60,
+      15
+    ]
+  },
+  "data2": {
+    "system_size": 3,
+    "average_errors": [
+      0.10041770715576515
+    ],
+    "M, B1, B2, and L are": [
+      72960,
+      32,
+      60,
+      38
+    ]
+  },
+  "data3": {
+    "system_size": 4,
+    "average_errors": [
+      0.09616331022879626
+    ],
+    "M, B1, B2, and L are": [
+      172800,
+      32,
+      60,
+      90
+    ]
+  },
+  "data4": {
+    "system_size": 5,
+    "average_errors": [
+      0.10192588027807946
+    ],
+    "M, B1, B2, and L are": [
+      384000,
+      32,
+      60,
+      200
+    ]
+  },
+  "data5": {
+    "system_size": 6,
+    "average_errors": [
+      0.11344336356640154
+    ],
+    "M, B1, B2, and L are": [
+      883200,
+      32,
+      60,
+      460
+    ]
+  }
+}
