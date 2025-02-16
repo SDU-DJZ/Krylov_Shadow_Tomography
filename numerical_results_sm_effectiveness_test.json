@@ -1,0 +1,114 @@
+{
+  "data1": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34220,
+      "N_LB1": 15904,
+      "N_LB2": 24710,
+      "N_LB3": 28552,
+      "N_LB_Leg": 0,
+      "N_LB_Sub": 2505,
+      "N_K1": 28096,
+      "N_K2": 31680,
+      "N_K3": 33762
+    }
+  },
+  "data2": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34363,
+      "N_LB1": 15980,
+      "N_LB2": 24731,
+      "N_LB3": 28588,
+      "N_LB_Leg": 1,
+      "N_LB_Sub": 2516,
+      "N_K1": 28119,
+      "N_K2": 31807,
+      "N_K3": 33923
+    }
+  },
+  "data3": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34134,
+      "N_LB1": 15865,
+      "N_LB2": 24619,
+      "N_LB3": 28445,
+      "N_LB_Leg": 1,
+      "N_LB_Sub": 2459,
+      "N_K1": 27907,
+      "N_K2": 31607,
+      "N_K3": 33698
+    }
+  },
+  "data4": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34387,
+      "N_LB1": 15904,
+      "N_LB2": 24728,
+      "N_LB3": 28577,
+      "N_LB_Leg": 0,
+      "N_LB_Sub": 2457,
+      "N_K1": 28111,
+      "N_K2": 31733,
+      "N_K3": 33915
+    }
+  },
+  "data5": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34161,
+      "N_LB1": 15916,
+      "N_LB2": 24719,
+      "N_LB3": 28468,
+      "N_LB_Leg": 1,
+      "N_LB_Sub": 2400,
+      "N_K1": 27995,
+      "N_K2": 31600,
+      "N_K3": 33739
+    }
+  },
+  "data6": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34176,
+      "N_LB1": 15981,
+      "N_LB2": 24747,
+      "N_LB3": 28543,
+      "N_LB_Leg": 1,
+      "N_LB_Sub": 2478,
+      "N_K1": 28030,
+      "N_K2": 31636,
+      "N_K3": 33720
+    }
+  },
+  "data7": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34123,
+      "N_LB1": 15741,
+      "N_LB2": 24378,
+      "N_LB3": 28242,
+      "N_LB_Leg": 1,
+      "N_LB_Sub": 2490,
+      "N_K1": 27759,
+      "N_K2": 31539,
+      "N_K3": 33689
+    }
+  },
+  "data8": {
+    "system size": 2,
+    "aggregated results": {
+      "N_Total": 34033,
+      "N_LB1": 15879,
+      "N_LB2": 24570,
+      "N_LB3": 28316,
+      "N_LB_Leg": 0,
+      "N_LB_Sub": 2520,
+      "N_K1": 27870,
+      "N_K2": 31497,
+      "N_K3": 33586
+    }
+  }
+}
